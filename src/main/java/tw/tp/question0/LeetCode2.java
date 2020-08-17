@@ -1,5 +1,5 @@
 package tw.tp.question0;
-//testCommit
+
 public class LeetCode2 {
     public static void main(String[] args) {
         ListNode test = createListNode(5);
