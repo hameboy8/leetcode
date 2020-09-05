@@ -1,4 +1,4 @@
-package tw.tp.question650;
+package tw.tp.question500;
 
 import java.util.Arrays;
 
